@@ -1,0 +1,17 @@
+.title {
+    color: yellow;
+    font-size: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aqua;
+    
+}
+.menuOptions {
+    color: rgb(205, 23, 23);
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.logo {
+    width: 50px;
+    
+
+}
